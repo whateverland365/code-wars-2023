@@ -35,3 +35,10 @@
 #string with quote in a quote
 #  msg = "he said 'hello there!'"
 #  msg = 'you are "the best"!'
+
+#converting data types
+decimal = 12.34
+integer = int(decimal)
+
+my_list = [1,2,3]
+my_string = str(my_list)
